@@ -9,4 +9,5 @@ public class ifElse {
             System.out.println(" Кондиционнер ничего не делает");
         }
     }
-}
+    }
+
