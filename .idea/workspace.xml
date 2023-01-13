@@ -9,10 +9,11 @@
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TypeInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactorialNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ifElse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TypeInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypeInteger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +53,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task2">
-    <configuration name="Family" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Family" />
+  <component name="RunManager" selected="Application.FactorialNumber">
+    <configuration name="FactorialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactorialNumber" />
       <module name="FirstProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variables" />
+    <configuration name="TypeInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TypeInteger" />
       <module name="FirstProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FactorialNumber" />
+        <item itemvalue="Application.TypeInteger" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.ifElse" />
         <item itemvalue="Application.task1" />
-        <item itemvalue="Application.Variables" />
-        <item itemvalue="Application.Family" />
       </list>
     </recent_temporary>
   </component>
