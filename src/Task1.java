@@ -1,4 +1,4 @@
-public class task1 {
+public class Task1 {
     public static void main(String[] args) {
         int day=10000;
         int year=day/365;
